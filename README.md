@@ -1,2 +1,2 @@
 # map_annotation
-Allows annotation scanned maps
+Allows annotating scanned maps
